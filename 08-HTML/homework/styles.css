@@ -1,0 +1,20 @@
+h1 {
+    color: midnightblue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 800px;
+    width: 500px;
+    background-color: blanchedalmond;
+    padding: 50px;
+    border: 15px white dotted;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
